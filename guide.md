@@ -63,7 +63,7 @@ This is a list of things you need to change for your sorter, for each file.
       opts: {
         series: ["book", "EoSD", "StB"],
         stage: ["ex"],
-        loli: true
+        muppet: true
       }
     }
     ```
