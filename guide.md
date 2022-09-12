@@ -90,14 +90,14 @@ This is a list of things you need to change for your sorter, for each file.
 
     ```
     {
-      name: 'Filter Lolis',
-      key: 'loli',
-      tooltip: 'Check this if you want to remove lolis from being listed.'
+      name: 'Filter Muppets',
+      key: 'muppet',
+      tooltip: 'Check this if you want to remove muppets from being listed.'
       checked: true,
     }
     ```
 
-    In this example, checking this option would remove the example 'Flandre Scarlet' above from the list of sorted characters, since she has `loli` set to `true`. The `checked` option is true, so in this sorter, it would be enabled by default.
+    In this example, checking this option would remove the example 'Flandre Scarlet' above from the list of sorted characters, since she has `muppet` set to `true`. The `checked` option is true, so in this sorter, it would be enabled by default.
 
     The second form is a **Nested Inclusion Filter**. The Nested Inclusion Filter has a few sub-options under it. When selected, any options under it that are *not* selected will be excluded from the sort. Its layout is similar to the Basic Filter, except with an extra `sub` part, which lists the sub-options.
 
