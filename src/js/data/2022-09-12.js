@@ -8,8 +8,8 @@ dataSet[dataSetVersion].options = [
     tooltip: "uncheck this and youll just get Everything",
     checked: true,
     sub: [
-      { name: "aa prosecuties", tooltip: "Just the ones that matter", key: "AAPr", checked:false },
-      { name: "miku miku miku", tooltip: "Project sekai, specifically", key: "PRSK", checked:false },
+      { name: "aa prosecuties", tooltip: "Just the ones that matter", key: "AAPr"},
+      { name: "miku miku miku", tooltip: "Project sekai, specifically", key: "PRSK"},
       // add more here, using above format
     ]
   },
