@@ -7,7 +7,7 @@ dataSet[dataSetVersion].options = [
     key: "poison",
     tooltip: "uncheck this and youll just get Everything",
     sub: [
-      { name: "Ace Attorney Prosecutors", tooltip: "Just the ones that matter", key: "AAPros" },
+      { name: "Ace Attorney Prosecutors", tooltip: "Just the ones that matter", key: "AAPr" },
       { name: "Miku bitches", tooltip: "Project sekai, specifically", key: "PRSK" },
       // add more here, using above format
     ]
@@ -20,112 +20,112 @@ dataSet[dataSetVersion].characterData = [
     name: "Winston Payne",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Miles Edgeworth",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Manfred von Karma",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Lana Skye",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Franziska von Karma",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Godot",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Sebastian Debeste",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Blaise Debeste",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Klavier Gavin",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Gaspen Payne",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Simon Blackquill",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Nahyuta Sadmadhi",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Ga'ran Sigatar Khura'in",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Taketsuchi Auchi",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Barok van Zieks",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
     name: "Jules' little spoiler boy",
     img: "https://i.imgur.com/E3cWvFt.png",
     opts: {
-      poison: ["AAPros"]
+      poison: ["AAPr"]
     }
   },
   {
