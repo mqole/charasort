@@ -3,12 +3,13 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Pick your poison",
+    name: "ALL OF THEM",
     key: "poison",
-    tooltip: "uncheck this and youll just get Everything",
+    tooltip: "check this and youll just get Everything",
+    checked: false,
     sub: [
-      { name: "Ace Attorney Prosecutors", tooltip: "Just the ones that matter", key: "AAPr" },
-      { name: "Miku bitches", tooltip: "Project sekai, specifically", key: "PRSK" },
+      { name: "aa prosecuties", tooltip: "Just the ones that matter", key: "AAPr" },
+      { name: "miku miku miku", tooltip: "Project sekai, specifically", key: "PRSK" },
       // add more here, using above format
     ]
   },
