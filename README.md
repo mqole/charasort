@@ -13,6 +13,9 @@ mq's big funny sort project.
 
 External image hosting, undo option added by Anonymous from /jp/, Jan 24 2013
 
+<a href="https://web.archive.org/web/20180323161039/http://www.bathkame.me/johnnys.html">bathkame's sorters</a>, created sometime before Aug 19 2013<br>
+<sub>all links on sorters dead, gotta use the wayback machine to get anywhere</sub>
+
 <a href="https://snksorter.tumblr.com/">snksorter on Tumblr</a>, created sometime before Aug 7 2013<br>
 <sub>unsourced. Not to be confused with <a href="https://snksorter-blog.tumblr.com/">snksorter-blog</a>, created before Aug 19 2013. that one credits bathkame though.</sub><br>
 <sub>unsure if blog authors are the same, probably not? source code different (variable BattleNo changed to QuestionNo, etc.) but the dates updated/created are very similar. could be plagarism. could be the same author redoing the code. no clue</sub>
@@ -25,20 +28,17 @@ External image hosting, undo option added by Anonymous from /jp/, Jan 24 2013
 
 <a href="https://github.com/xjcl/sorter_js">xjcl's Ace Attorney sorter</a>, created Jun 27 2014<br>
 <sub>fully pulled from zombikkomoe's code</sub>
-
-<a href="https://web.archive.org/web/20180323161039/http://www.bathkame.me/johnnys.html">bathkame's sorters</a>, probably created sometime before 10 Sep 2016<br>
-<sub>all links on sorters dead, gotta use the wayback machine to get anywhere</sub>
   
 <a href="https://solarwoos.tumblr.com/post/150239905510/how-to-make-a-bias-sorter">solarwoos (formerly peachtuan) on Tumblr</a> made a tutorial post on 10 Sep 2016<br>
 <sub>reblog, looks like the original post was deleted so we cant get under the readmore </3</sub><br>
 <sub>source code might've been taken from <a href="http://infinitexo.weebly.com/ori.html">this sorter</a> (which credits bathkame)</sub>
 
-<a href="https://github.com/execfera/charasort/">execfera's charasort</a>, created 19 Feb 2018- what this repo was forked on :]<br>
+<a href="https://github.com/execfera/charasort/">execfera's charasort</a>, created Feb 19 2018- what this repo was forked on :]<br>
 <sub>credits E-phantasm</sub>
   
 <a href="https://objectsorter.tumblr.com/">objectsorter on Tumblr</a>, created Jul 29 2018 by<a href="https://mobile.twitter.com/Punchyholery">Punchyholery</a> (formerly swabsbloo)<br>
 <sub>(only able to find the author thanks to a <a href="https://mobile.twitter.com/bucketverse/status/1351714114335199235">tweet</a> from <a href="https://mobile.twitter.com/Bucketverse">Bucketverse</a> (MEGA thanks!!!))</sub><br>
 <sub>credits K-factory, E-phantasm, tohosort, zombikkomoe, peachtuan</sub>
   
-<a href="https://github.com/Epicbattler3/BFDI-Character-Sorter">Epicbattler3's BFDI Character Sorter</a>, created 19 Jan 2021 by <a href="https://twitter.com/fuzzytheepic">Fuzzy on Twitter</a><br>
+<a href="https://github.com/Epicbattler3/BFDI-Character-Sorter">Epicbattler3's BFDI Character Sorter</a>, created Jan 19 2021 by <a href="https://twitter.com/fuzzytheepic">Fuzzy on Twitter</a><br>
 <sub>credits execfera's charasort</sub>
